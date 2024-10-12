@@ -15,7 +15,7 @@ class Settings(BaseSettings):
     JOIN_TG_CHANNELS: bool = True
     CLAIM_REWARD: bool = True
     AUTO_UPGRADE: bool = True
-    REF_ID: str = 'f464869246'
+    REF_ID: str = 'f6612367663'
     IGNORED_BOOSTS: list[str] = ['paintReward']
     IN_USE_SESSIONS_PATH: str = 'bot/config/used_sessions.txt'
     NIGHT_MODE: bool = True
